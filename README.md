@@ -1,11 +1,10 @@
 # Road_Defect_Dataset
 
-A column : Timestamp \
-B column : Accelerometer X-axis \
-C column : Accelerometer Y-axis \
-D column : Accelerometer Z-axis \
-E column : Gyroscope X-axis \
-F column : Gyroscope Y-axis \
-G column : Gyroscope Z-axis \
-H column : RMS Accelerometer \
-I column : label 
+A column : Accelerometer X-axis \
+B column : Accelerometer Y-axis \
+C column : Accelerometer Z-axis \
+D column : Gyroscope X-axis \
+E column : Gyroscope Y-axis \
+F column : Gyroscope Z-axis \
+G column : RMS Accelerometer \
+H column : label 
